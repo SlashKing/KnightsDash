@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialog>
+    <conversation>
+        <page
+            image="@drawable/idle_000"
+            text="@string/a1_a4_start_area_1"
+            title="@string/Zephyr" />
+    </conversation>
+</dialog>

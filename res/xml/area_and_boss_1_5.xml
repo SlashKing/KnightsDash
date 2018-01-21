@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialog>
+    <conversation>
+        <page
+            image="@drawable/idle_000"
+            text="@string/a1_a5_start_area_1"
+            title="@string/Zephyr" />
+    </conversation>
+    <conversation>
+        <page
+            image="@drawable/viking_icon"
+            text="@string/a1_a5_start_boss"
+            title="@string/Zaul" />
+    </conversation>
+    <conversation>
+        <page
+            image="@drawable/viking_icon"
+            text="@string/a1_a5_end_boss"
+            title="@string/Zaul" />
+        </conversation>
+</dialog>

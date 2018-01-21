@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_invincible">Invincibility</string>
+    <string name="pref_inv_summ">Select true if you wish to be invincible</string>
+    <string name="pref_hardcore">Hardcore</string>
+    <string name="pref_hardcore_sum">Checking will reset game and lose all progress when you die.</string>
+    <string name="pref_unlock">Unlock All Levels</string>
+    <string name="pref_item_on_collide">Open Item Details on Collision</string>
+    <string name="pref_item_on_collide_sum">When true, dropped items details will appear on screen when collided with</string>
+    <string name="app_name">KnightsDash</string>
+    <string name="title_activity_splash_main">SplashActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="normal_description">Normal</string>
+    <string name="nightmare_description">Nightmare</string>
+    <string name="hell_description">Hardcore</string>
+    <string name="Zephyr">Zephyr</string>
+    <string name="Zaul">Zaul</string>
+    <string name="Rifkin">Rifkin</string>
+    <string name="area1">Traeldor Plains</string>
+    <string name="area2">Mines of Balron</string>
+    <string name="area3">Troll King\'s Den</string>
+    <string name="area4">Mines of Balron Exit</string>
+    <string name="area5">Graveyard</string>
+    <string name="a1_a1_start_area_1">Oh! Thank heavens I ran into you, son of Elrod. You may be our only hope in surviving the corruption that has plagued Traeldor! Let\'s start by taking care of those pesky Elves in the Plains...</string>
+     <string name="a1_a1_start_boss">You will never make it out of the Traeldor Plains alive! I\'ll be sure of that.</string>
+     	<string name="a1_a1_end_boss">
+     		We will meet again, slime; count on it!
+     	</string>
+     <string name="a1_a2_start_area_1">That Zaul is an impetuous and stubborn creature. I knew I had made the right decision in choosing you for this quest.</string>
+    <string name="a1_a2_start_area_2">You will need to pass through the Mines of Balron in order to reach the Troll\'s Den. I am uncertain of the state of those mines, so be weary, be sure to upgrade your stats and spells.</string>
+    <string name="a1_a3_start_area_1">Oh my! Young knight, prepare for a messy battle... The Troll King awaits your arrival</string>
+   <string name="a1_a3_start_boss">BWUUAAAAHHHHHH!!!</string>
+   <string name="a1_a3_end_boss">EEEERRRRRRRRRR...</string>
+   <string name="a1_a4_start_area_1">Wow... You are more skilled than I ever would have imagined. Those trolls are no walk in the park. Keep it up; almost there!</string>
+    <string name="a1_a5_start_area_1">Now this is just strange; these suits seem to be from another planet, much more advanced than I\'ve ever seen...</string>
+     <string name="a1_a5_start_boss">I am not going to take it so easy on you this time!</string>
+   <string name="a1_a5_end_boss">You will burn for this young Knight!</string>
+   <string name="a1_a1_q1_npc">Greetings young Knight, and welcome to the Traeldor Plains! The corruption in the land grows stronger each day. 
+	    Slay 10 monsters without dying and ye\'ll be granted with an additional 20 base hp.</string>
+    <string name="a1_a1_q1_npc_nm">Greetings young Knight, and welcome to the Traeldor Plains! The corruption in the land grows stronger each day. 
+	    Slay 15 monsters without dying and ye\'ll be granted with an additional 20 base hp.</string>
+    <string name="a1_a1_q1_npc_hell">Greetings young Knight, and welcome to the Traeldor Plains! The corruption in the land grows stronger each day. 
+	    Slay 20 monsters without dying and ye\'ll be granted with an additional 20 base hp.</string>
+    <string name="a1_a1_q2_npc">Very well done back there! Now, you must slay 15 monsters without dying and 5 dexterity points will be yours. Dexterity increases your attack speed.</string>
+    <string name="a1_a1_q2_npc_nm">Very well done back there! Now, you must slay 20 monsters without dying and 5 dexterity points will be yours. Dexterity increases your attack speed.</string>
+    <string name="a1_a1_q2_npc_hell">Very well done back there! Now, you must slay 25 monsters without dying and 5 dexterity points will be yours. Dexterity increases your attack speed.</string>
+    <string name="a1_a1_q3_npc">This will test your battle skills young Knight. Slay 20 monsters without dying and you will be granted 5 strength points. Strength increases your damage output</string>
+    <string name="a1_a1_q3_npc_nm">This will test your battle skills young Knight. Slay 25 monsters without dying and you will be granted 5 strength points. Strength increases your damage output</string>
+    <string name="a1_a1_q3_npc_hell">This will test your battle skills young Knight. Slay 30 monsters without dying and you will be granted 5 strength points. Strength increases your damage output</string>
+    <string name="title_activity_inventory">InventoryActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+
+</resources>

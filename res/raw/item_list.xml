@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <item
+        id="@drawable/helmet_standard"
+        name="Training Helmet"
+        content="The original helmet of Traeldor's junior knights."
+        dropChance="250"
+        iClass="0"
+        iLvl="1"
+        maxStat="4"
+        minStat="1"
+        requiredDex="10"
+        requiredStr="10"
+        slots="4"
+        type="0">
+    </item>
+    <item
+        id="@drawable/shield_standard"
+        name="Training Shield"
+        content="The original shield of Traeldor's junior knights."
+        dropChance="250"
+        iClass="0"
+        iLvl="1"
+        maxStat="4"
+        minStat="1"
+        requiredDex="10"
+        requiredStr="10"
+        slots="4"
+        type="8">
+    </item>
+    <item
+        id="@drawable/weapon_standard"
+        name="Training Sword"
+        content="The original training blade of Traeldor's junior knights."
+        dropChance="250"
+        iClass="0"
+        iLvl="1"
+        maxStat="4"
+        minStat="1"
+        requiredDex="10"
+        requiredStr="10"
+        slots="6"
+        type="2">
+    </item>
+    <item
+        id="@drawable/elven_dagger"
+        name="Elven Dagger"
+        content="Lord Elrod's first dagger used in battle"
+        dropChance="250"
+        iClass="0"
+        iLvl="5"
+        maxStat="7"
+        minStat="1"
+        requiredDex="35"
+        requiredStr="10"
+        slots="4"
+        type="2">
+    </item>
+    <item
+        id="@drawable/wrecker_cage"
+        name="Wrecker Cage"
+        content="The Traeldor Elders' helmet of choice"
+        dropChance="150"
+        iClass="2"
+        iLvl="57"
+        maxStat="55"
+        minStat="45"
+        requiredDex="50"
+        requiredStr="110"
+        slots="4"
+        type="0">
+    </item>
+    <item
+        id="@drawable/axe"
+        name="One-Handed Axe"
+        content="Skull splitting precision"
+        dropChance="100"
+        iClass="0"
+        iLvl="10"
+        maxStat="4"
+        minStat="1"
+        requiredDex="35"
+        requiredStr="35"
+        slots="6"
+        type="2">
+    </item>
+    <item
+        id="@drawable/small_shield"
+        name="Small Shield"
+        content="Small shield taken from the Troll Kingdom"
+        dropChance="125"
+        iClass="0"
+        iLvl="7"
+        maxStat="12"
+        minStat="5"
+        requiredDex="35"
+        requiredStr="45"
+        slots="4"
+        type="8">
+    </item>
+    <item
+        id="@drawable/short_sword"
+        name="Short sword"
+        content="Basic short sword taken from the Troll Kingdom"
+        dropChance="135"
+        iClass="0"
+        iLvl="25"
+        maxStat="12"
+        minStat="5"
+        requiredDex="45"
+        requiredStr="45"
+        slots="4"
+        type="2">
+    </item>
+    <item
+        id="@drawable/standard_mace"
+        name="Mace"
+        content="Skull cracking mace"
+        dropChance="125"
+        iClass="0"
+        iLvl="10"
+        maxStat="10"
+        minStat="1"
+        requiredDex="45"
+        requiredStr="35"
+        slots="6"
+        type="2">
+    </item>
+    <item
+        id="@drawable/round_shield"
+        name="Round Shield"
+        content="Heavy and sturdy, made by the Vikings"
+        dropChance="200"
+        iClass="1"
+        iLvl="35"
+        maxStat="50"
+        minStat="40"
+        requiredDex="60"
+        requiredStr="70"
+        slots="4"
+        type="8">
+    </item>
+    <item
+        id="@drawable/spiked_hammer"
+        name="Spiked Hammer"
+        content="Lightweight and swift made for Viking's henchmen"
+        dropChance="180"
+        iClass="2"
+        iLvl="55"
+        maxStat="25"
+        minStat="15"
+        requiredDex="105"
+        requiredStr="70"
+        slots="4"
+        type="2">
+    </item>
+    <item
+        id="@drawable/spear_wand"
+        name="Spear Wand"
+        content="Inny minny miney mo - RNG"
+        dropChance="100"
+        iClass="1"
+        iLvl="28"
+        maxStat="10"
+        minStat="7"
+        requiredDex="25"
+        requiredStr="25"
+        slots="4"
+        type="2">
+    </item>
+    <item
+        id="@drawable/wand"
+        name="Wand"
+        content="Traeldor's junior wizards must be leaving their wands around"
+        dropChance="100"
+        iClass="0"
+        iLvl="5"
+        maxStat="3"
+        minStat="1"
+        requiredDex="25"
+        requiredStr="15"
+        slots="4"
+        type="2">
+    </item>
+    <item
+        id="@drawable/death_casque"
+        name="Death Casque"
+        content="Forged in the belly of the beast"
+        dropChance="80"
+        iClass="2"
+        iLvl="55"
+        maxStat="110"
+        minStat="75"
+        requiredDex="75"
+        requiredStr="145"
+        slots="4"
+        type="8">
+    </item>
+    <item
+        id="@drawable/godly_skull_cap"
+        name="Godly Skull Cap"
+        content="Small and durable, forged from copper"
+        dropChance="125"
+        iClass="1"
+        iLvl="35"
+        maxStat="45"
+        minStat="30"
+        requiredDex="55"
+        requiredStr="65"
+        slots="4"
+        type="8">
+    </item>
+</items>

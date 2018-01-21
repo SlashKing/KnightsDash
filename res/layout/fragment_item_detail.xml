@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_item_detail"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical"
+        android:layout_centerInParent="true" >
+
+    <TextView
+        android:id="@+id/item_detail"
+        style="?android:attr/textAppearanceSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:padding="2dp"
+        android:textColor="#FFFFFF"
+        android:textIsSelectable="false"
+        tools:context="com.comp486.knightsrush.ItemDetailFragment" />
+
+    <TextView
+        android:id="@+id/tv_damage_defense"
+        style="?android:attr/textAppearanceSmall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:padding="2dp"
+        android:textColor="#FFFFFF"
+        android:textIsSelectable="false"
+        tools:context="com.comp486.knightsrush.ItemDetailFragment" />
+        <TextView
+            android:id="@+id/required_str"
+            style="?android:attr/textAppearanceSmall"
+        android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="4dp"
+            android:textColor="#FFFFFF"
+            android:textIsSelectable="false"
+            tools:context="com.comp486.knightsrush.ItemDetailFragment" />
+    <TextView
+        android:id="@+id/item_content"
+        style="?android:attr/textAppearanceSmall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:padding="2dp"
+        android:textColor="#FF0000"
+        android:textIsSelectable="false"
+        tools:context="com.comp486.knightsrush.ItemDetailFragment" />
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="pref_inv"
+        android:title="@string/pref_invincible"
+        android:summary="@string/pref_inv_summ"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="pref_hardcore"
+        android:title="@string/pref_hardcore"
+        android:summary="@string/pref_hardcore_sum"
+        android:defaultValue="false" />
+     <CheckBoxPreference
+        android:key="pref_unlock"
+        android:title="@string/pref_unlock"
+        android:summary="@string/pref_item_on_collide_sum"
+        android:defaultValue="false" />
+     <CheckBoxPreference
+        android:key="pref_item_on_collide"
+        android:title="@string/pref_item_on_collide"
+        android:summary=""
+        android:defaultValue="true" />
+    <Preference android:title="Item Wiki" >
+    	 <intent
+             android:action="android.intent.action.VIEW"
+             android:targetPackage="com.comp486.knightsrush"
+             android:targetClass="com.comp486.knightsrush.ItemListActivity" />         
+	</Preference>
+</PreferenceScreen>

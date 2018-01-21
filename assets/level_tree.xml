@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<leveltree>
+
+    <act
+        id="0"
+        completed="0" >
+
+        <area
+            id="0"
+            bgRes=""
+            completed="0"
+            end="200000"
+            floorRes="@drawable/tile1_smaller"
+            platRes="@drawable/tile2_smaller"
+            start="0"
+            title="Traeldor Plains" >
+
+            <quest
+                id="0"
+                bonus="20"
+                completed="0"
+                disact="15000"
+                distanceWalked="15000"
+                isInt="0"
+                reward="0"
+                threshold="10"
+                thresholdHell="20"
+                thresholdNM="15"
+                type="0" >
+
+                <npc resource="@xml/npc_a1_a1_q1_d" />
+
+                <player resource="0" />
+            </quest>
+
+            <quest
+                id="1"
+                completed="0"
+                disact="15000"
+                distanceWalked="25000"
+                reward="1"
+                type="1" >
+
+                <npc resource="@xml/npc_a1_a1_q1_d" />
+
+                <player resource="0" />
+            </quest>
+
+            <quest
+                id="2"
+                completed="0"
+                disact="8000"
+                distanceWalked="60000" >
+
+                <npc resource="@xml/npc_a1_a1_q1_d" />
+
+                <player resource="0" />
+            </quest>
+        </area>
+    </act>
+
+</leveltree>
